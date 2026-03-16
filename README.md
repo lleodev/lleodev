@@ -28,11 +28,15 @@ Passionate about learning how things work under the hood and turning ideas into 
 
 ---
 
+## 🚀 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,linux,git,github,vscode,docker,nginx" />
 </p>
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=lleodev&show_icons=true&theme=tokyonight"/>
@@ -41,8 +45,18 @@ Passionate about learning how things work under the hood and turning ideas into 
 
 ---
 
+## 🔥 Streak
+
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=lleodev&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Snake eating commits
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/lleodev/lleodev/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
